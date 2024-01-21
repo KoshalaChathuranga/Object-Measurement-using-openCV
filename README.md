@@ -3,7 +3,7 @@
 ## Overview
 
 This code provides a simple Python class, 'ReadFrame', for capturing video frames from a webcam using the OpenCV library ('cv2'). The class is designed to initialize the webcam, set its resolution and frame rate, read frames, and release the webcam when done.
-Then inside other method file there are 4 different methods to claculate width and height of a object. 
+Then inside other method file there are 4 different methods to claculate width and height of an object. 
 
 ## Method one (method_1.py)
 
